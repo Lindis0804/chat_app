@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511976587166",
+    "project_id": "chat-app-a20d7",
+    "storage_bucket": "chat-app-a20d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511976587166:android:38f89e28e4ca8de659a08f",
+        "android_client_info": {
+          "package_name": "com.ldh.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC833fzxc7hDIPVOh1imTw1vnZnmpDCmQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

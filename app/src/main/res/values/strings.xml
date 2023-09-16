@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="login_to_continue">Login to continue.</string>
+</resources>
